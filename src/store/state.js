@@ -1,5 +1,7 @@
 const state = {
   player: false,
+  header: true,
+  search: false,
   user: {
     name: 'yyf',
     age: 24,
